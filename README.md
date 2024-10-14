@@ -35,5 +35,5 @@ A simple web-based Student Management System developed using Java EE, JSP, and M
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Rifat-00/student_management/tree/main)
    cd student_management
